@@ -1,6 +1,6 @@
 <div align="center">
 
-# Venuel Rey Gallarte
+# Vekzzz
 ### Full-Stack Developer · React · Node.js · TypeScript
 
 ![Profile views](https://komarev.com/ghpvc/?username=vekzzz&color=0e75b6&style=flat)
@@ -21,16 +21,25 @@
 ## Tech stack
 
 **Frontend**
-`React` `Next.js` `TypeScript` `Tailwind CSS` `Redux` `SASS` `Bootstrap`
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `Redux` `SASS` `Bootstrap` `HTML5` `CSS3` `Webpack` `Babel` `Framer Motion`
 
 **Backend**
-`Node.js` `Express` `NestJS` `GraphQL` `PostgreSQL` `MongoDB` `MySQL`
+`Node.js` `Express` `NestJS` `GraphQL` `REST API` `WebSockets` `JWT` `OAuth2`
+
+**Databases**
+`PostgreSQL` `MongoDB` `MySQL` `Redis`
 
 **Mobile & Desktop**
-`React Native` `Electron`
+`React Native` `Expo` `Electron`
 
-**Tools & Cloud**
-`AWS` `Docker` `Git` `Firebase` `Jest` `Figma` `Postman` `Webpack`
+**Cloud & DevOps**
+`AWS (EC2, S3, Lambda, RDS, CloudFront, Rekognition)` `Docker` `Docker Compose` `Nginx` `CI/CD` `GitHub Actions` `Heroku` `Firebase` `Vercel`
+
+**Testing & QA**
+`Jest` `React Testing Library` `Postman` `Insomnia`
+
+**Design & Collaboration**
+`Figma` `Adobe XD` `Adobe Illustrator` `Photoshop` `Git` `Linux`
 
 ---
 
